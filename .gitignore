@@ -1,0 +1,8 @@
+# Ignore uploads of .tar.gz files
+*.tar.gz
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore .git folder
+.git/
